@@ -20,8 +20,8 @@
 - 📫 How to reach me: [Linkdin - @joshi-nitant](https://www.linkedin.com/in/joshi-nitant/) , [Instagram - @joshi_nitant](https://www.instagram.com/joshi_nitant/)
 - 😄 Pronouns: He/His
 
-[![Instagram: joshi_nitant](https://img.shields.io/twitter/follow/imthepk?style=social)](https://www.instagram.com/joshi_nitant/)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshi-nitant)](https://www.linkedin.com/in/joshi-nitant)
+[![Instagram: joshi_nitant](https://img.shields.io/twitter/follow/joshi-nitant?style=social)](https://www.instagram.com/joshi_nitant/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-joshi-nitant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshi-nitant)](https://www.linkedin.com/in/joshi-nitant)
 [![GitHub joshi-nitant](https://img.shields.io/github/followers/joshi-nitant?label=follow&style=social)](https://github.com/joshi-nitant)
 
 
