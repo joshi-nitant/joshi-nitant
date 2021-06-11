@@ -1,14 +1,9 @@
 ## Hola, I'm [Nitant Joshi!]👋
 
-<a href="https://www.linkedin.com/in/joshi-nitant/">
-  <img align="left" alt="Nitant's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/joshi-nitant">
-  <img align="left" alt="Nitant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/joshi_nitant/">
-  <img align="left" alt="Nitant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Instagram: joshi_nitant](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshi_nitant/)
+[![Linkedin: imthepk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshi-nitant)
+[![GitHub joshi-nitant](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshi-nitant)
+
 <br/>
 <br/>
 
@@ -20,11 +15,12 @@
 - 📫 How to reach me: [Linkdin - @joshi-nitant](https://www.linkedin.com/in/joshi-nitant/) , [Instagram - @joshi_nitant](https://www.instagram.com/joshi_nitant/)
 - 😄 Pronouns: He/His
 
-[![Instagram: joshi_nitant](https://img.shields.io/twitter/follow/joshi-nitant?style=social)](https://www.instagram.com/joshi_nitant/)
-[![Linkedin: imthepk](https://img.shields.io/badge/-joshi-nitant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshi-nitant)](https://www.linkedin.com/in/joshi-nitant)
-[![GitHub joshi-nitant](https://img.shields.io/github/followers/joshi-nitant?label=follow&style=social)](https://github.com/joshi-nitant)
-
-
+<a href="https://github.com/joshi-nitant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-nitant&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/joshi-nitant">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-nitant&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 **Languages and Tools:**  
 
@@ -34,15 +30,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/joshi-nitant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-nitant&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/joshi-nitant">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-nitant&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
