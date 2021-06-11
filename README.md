@@ -1,5 +1,7 @@
 ## Hola, I'm [Nitant Joshi!]👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-nitantl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joshi-nitant" /> </p>
+
 [![Instagram: joshi_nitant](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshi_nitant/)
 [![Linkedin: imthepk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshi-nitant)
 [![GitHub joshi-nitant](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshi-nitant)
